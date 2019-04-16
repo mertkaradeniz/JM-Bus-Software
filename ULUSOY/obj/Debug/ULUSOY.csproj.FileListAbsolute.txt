@@ -1,0 +1,212 @@
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.exe.config
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.exe
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.pdb
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.exe
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.pdb
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+F:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.exe.config
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.exe
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.pdb
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.exe
+I:\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.exe
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\mert\Desktop\ULUSOY-SON\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\PROJE\ULUSOY\ULUSOY\obj\Debug\ULUSOY.hakkimizda.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\bin\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.hakkimizda.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\JMT\Desktop\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+D:\MERT KARADENİZ\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\bin\Debug\ULUSOY.exe.config
+D:\MERT KARADENİZ\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.exe
+D:\MERT KARADENİZ\OTOBÜS PROGRAMI - ULUSOY\SERVER-CLİENT\SERVER\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\bin\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.gelenaramalar.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.genel_ayarlar.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.hakkimizda.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.servis.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.yazilimgüvenlik.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\JMT\Desktop\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+C:\Users\JMT\Desktop\ULUSOY(310720141435) v3.2\ULUSOY\PROJE\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\JMT\Desktop\ULUSOY(310720141435) v3.2\ULUSOY\PROJE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMT\Desktop\ULUSOY(310720141435) v3.2\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\JMT\Desktop\ULUSOY(310720141435) v3.2\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\ULUSOY(310720141435) v3.2\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\bin\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.gelenaramalar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.genel_ayarlar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.hakkimizda.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.iletisim.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.lisansfrm.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.servis.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.yazilimgüvenlik.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\bin\Debug\Interop.cidv5callerid.dll
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.exe
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\Interop.cidv5callerid.dll
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.gelenaramalar.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.genel_ayarlar.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.iletisim.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.lisansfrm.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.servis.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yazilimgüvenlik.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\xxx\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+J:\MERT KARADENİZ\GÜNCEL PROJELER\PROJE GENEL YEDEK 2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.exe.config
+J:\MERT KARADENİZ\GÜNCEL PROJELER\PROJE GENEL YEDEK 2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+J:\MERT KARADENİZ\GÜNCEL PROJELER\PROJE GENEL YEDEK 2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csproj.ResolveComReference.cache
+J:\MERT KARADENİZ\GÜNCEL PROJELER\PROJE GENEL YEDEK 2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.exe
+J:\MERT KARADENİZ\GÜNCEL PROJELER\PROJE GENEL YEDEK 2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.gelenaramalar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.genel_ayarlar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.iletisim.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.lisansfrm.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.servis.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yazilimgüvenlik.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\Interop.cidv5callerid.dll
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.exe.config
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\bin\Debug\ULUSOY.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.aracekleme.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.frmana.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.gelenaramalar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.genel_ayarlar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.iletisim.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.lisansfrm.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.servis.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.worda_aktar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yazilimgüvenlik.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\Debug\AxInterop.cidv5callerid.dll
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources

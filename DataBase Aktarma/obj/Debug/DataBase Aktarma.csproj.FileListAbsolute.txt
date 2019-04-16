@@ -1,0 +1,48 @@
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\DataBase Aktarma\bin\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\DataBase Aktarma\bin\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\DataBase Aktarma\obj\Debug\DataBase_Aktarma.frmAna.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\DataBase Aktarma\obj\Debug\DataBase_Aktarma.Properties.Resources.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\DataBase Aktarma\bin\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\DataBase Aktarma\bin\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\DataBase Aktarma\obj\Debug\DataBase_Aktarma.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\DataBase Aktarma\obj\Debug\DataBase_Aktarma.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\bin\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\bin\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase_Aktarma.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase_Aktarma.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.pdb
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\bin\Debug\DataBase Aktarma.exe
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\bin\Debug\DataBase Aktarma.pdb
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.csprojResolveAssemblyReference.cache
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase_Aktarma.frmAna.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase_Aktarma.Properties.Resources.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.csproj.GenerateResource.Cache
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.exe
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\DataBase Aktarma\obj\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\DataBase Aktarma\bin\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\DataBase Aktarma\bin\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\DataBase Aktarma\obj\Debug\DataBase Aktarma.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\DataBase Aktarma\obj\Debug\DataBase_Aktarma.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\DataBase Aktarma\obj\Debug\DataBase_Aktarma.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\DataBase Aktarma\obj\Debug\DataBase Aktarma.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\DataBase Aktarma\obj\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\DataBase Aktarma\obj\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\DataBase Aktarma\bin\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\DataBase Aktarma\bin\Debug\DataBase Aktarma.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\DataBase Aktarma\obj\Debug\DataBase Aktarma.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\DataBase Aktarma\obj\Debug\DataBase_Aktarma.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\DataBase Aktarma\obj\Debug\DataBase_Aktarma.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\DataBase Aktarma\obj\Debug\DataBase Aktarma.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\DataBase Aktarma\obj\Debug\DataBase Aktarma.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\DataBase Aktarma\obj\Debug\DataBase Aktarma.pdb

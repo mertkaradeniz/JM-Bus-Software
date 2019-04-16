@@ -1,0 +1,17 @@
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\JM_Otobüs.csprojResolveAssemblyReference.cache
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\Interop.SpeechLib.dll
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\JM_Otobüs.csproj.ResolveComReference.cache
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.aracekleme.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.frmana.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.gelenaramalar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.genel_ayarlar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.hakkimizda.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.iletisim.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.lisansfrm.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\JM.Properties.Resources.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.servis.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.worda_aktar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.yazilimgüvenlik.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\ULUSOY.yolcularitasi.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\Release\JM_Otobüs.csproj.GenerateResource.Cache

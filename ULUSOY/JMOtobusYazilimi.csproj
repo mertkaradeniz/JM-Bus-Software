@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE6766C3-CD95-40C9-98AF-C93963327ED0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JMOtobusYazilimi</RootNamespace>
+    <AssemblyName>JM Otobüs Yazılımı</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>C:\Program Files\JM Technology\JM Otobüs Yazılımı\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>true</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://localhost:50919/</InstallUrl>
+    <TargetCulture>tr-TR</TargetCulture>
+    <MinimumRequiredVersion>4.0.0.2</MinimumRequiredVersion>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>4.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>JM Otobüs Yazılımı.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>Custom</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>980D1045C13E94A4EB0A7D011E606726F7EE586F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>JMTech.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.cidv5callerid, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.cidv5callerid.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.cidv5callerid, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.cidv5callerid.dll</HintPath>
+    </Reference>
+    <Reference Include="Lisans, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Lisans.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClsDegiskenler.cs" />
+    <Compile Include="ClsLiCtrl.cs" />
+    <Compile Include="ClsMail.cs" />
+    <Compile Include="ClsPosta.cs" />
+    <Compile Include="ClsSms.cs" />
+    <Compile Include="frmAracEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAracEkleme.Designer.cs">
+      <DependentUpon>frmAracEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClsDatabase.cs" />
+    <Compile Include="ClsDirectPrint.cs" />
+    <Compile Include="frmAna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAna.Designer.cs">
+      <DependentUpon>frmAna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGuncellemeKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGuncellemeKontrolu.Designer.cs">
+      <DependentUpon>frmGuncellemeKontrolu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGuncellemeShowPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGuncellemeShowPaneli.Designer.cs">
+      <DependentUpon>frmGuncellemeShowPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHarici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHarici.Designer.cs">
+      <DependentUpon>frmHarici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoading.Designer.cs">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMesajGelmeKontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMesajGelmeKontrol.Designer.cs">
+      <DependentUpon>frmMesajGelmeKontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteriBilgilendirmePaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteriBilgilendirmePaneli.Designer.cs">
+      <DependentUpon>frmMusteriBilgilendirmePaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteriBilgilendirmePaneliMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteriBilgilendirmePaneliMail.Designer.cs">
+      <DependentUpon>frmMusteriBilgilendirmePaneliMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOnlineAcenteler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOnlineAcenteler.Designer.cs">
+      <DependentUpon>frmOnlineAcenteler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSunucuAyarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSunucuAyarlari.Designer.cs">
+      <DependentUpon>frmSunucuAyarlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGelenAramalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGelenAramalar.Designer.cs">
+      <DependentUpon>frmGelenAramalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenelAyarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenelAyarlar.Designer.cs">
+      <DependentUpon>frmGenelAyarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIletisim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIletisim.Designer.cs">
+      <DependentUpon>frmIletisim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClsVeriTabaniIslemleri.cs" />
+    <Compile Include="frmLisans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLisans.Designer.cs">
+      <DependentUpon>frmLisans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTopluEpostaGonderme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTopluEpostaGonderme.Designer.cs">
+      <DependentUpon>frmTopluEpostaGonderme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTopluSmsGonderme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTopluSmsGonderme.Designer.cs">
+      <DependentUpon>frmTopluSmsGonderme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmAracServis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAracServis.Designer.cs">
+      <DependentUpon>frmAracServis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWordAktar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWordAktar.Designer.cs">
+      <DependentUpon>frmWordAktar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYazilimGüvenlik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYazilimGüvenlik.Designer.cs">
+      <DependentUpon>frmYazilimGüvenlik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYolcuKoltukBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYolcuKoltukBilgileri.Designer.cs">
+      <DependentUpon>frmYolcuKoltukBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAracTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAracTransfer.Designer.cs">
+      <DependentUpon>frmAracTransfer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAracEkleme.resx">
+      <DependentUpon>frmAracEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAna.resx">
+      <DependentUpon>frmAna.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGelenAramalar.resx">
+      <DependentUpon>frmGelenAramalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenelAyarlar.resx">
+      <DependentUpon>frmGenelAyarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGuncellemeKontrolu.resx">
+      <DependentUpon>frmGuncellemeKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGuncellemeShowPaneli.resx">
+      <DependentUpon>frmGuncellemeShowPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHarici.resx">
+      <DependentUpon>frmHarici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIletisim.resx">
+      <DependentUpon>frmIletisim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLisans.resx">
+      <DependentUpon>frmLisans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoading.resx">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMesajGelmeKontrol.resx">
+      <DependentUpon>frmMesajGelmeKontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMusteriBilgilendirmePaneli.resx">
+      <DependentUpon>frmMusteriBilgilendirmePaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMusteriBilgilendirmePaneliMail.resx">
+      <DependentUpon>frmMusteriBilgilendirmePaneliMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOnlineAcenteler.resx">
+      <DependentUpon>frmOnlineAcenteler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSunucuAyarlari.resx">
+      <DependentUpon>frmSunucuAyarlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTopluEpostaGonderme.resx">
+      <DependentUpon>frmTopluEpostaGonderme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTopluSmsGonderme.resx">
+      <DependentUpon>frmTopluSmsGonderme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAracServis.resx">
+      <DependentUpon>frmAracServis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWordAktar.resx">
+      <DependentUpon>frmWordAktar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYazilimGüvenlik.resx">
+      <DependentUpon>frmYazilimGüvenlik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYolcuKoltukBilgileri.resx">
+      <DependentUpon>frmYolcuKoltukBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAracTransfer.resx">
+      <DependentUpon>frmAracTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bus-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network-Download-icon.png" />
+    <None Include="Resources\Ekran Alıntısı.PNG" />
+    <None Include="Resources\Keys-icon.png" />
+    <None Include="Resources\glossy-3d-blue-phone-icon.png" />
+    <None Include="Resources\arkaplan-resimleri3.jpg" />
+    <None Include="Resources\Adsız.png" />
+    <None Include="Resources\Actions-edit-delete-icon.png" />
+    <None Include="Resources\settings-icon.png" />
+    <None Include="Resources\Files-Settings-File-icon.png" />
+    <None Include="Resources\school-bus-icon.png" />
+    <None Include="Resources\call-incoming-icon.png" />
+    <None Include="Resources\hp_printer2.png" />
+    <None Include="Resources\hp_printer1.png" />
+    <None Include="Resources\hp_printer %282%291.png" />
+    <None Include="Resources\hp_printer %282%29.png" />
+    <None Include="Resources\hp_printer %281%29.png" />
+    <None Include="Resources\hp_printer.png" />
+    <None Include="Resources\Adsız-31.gif" />
+    <None Include="Resources\timthumb.png" />
+    <None Include="Resources\Adsız-3.gif" />
+    <None Include="Resources\Button-Refresh-icon.png" />
+    <None Include="Resources\Help-icon.png" />
+    <None Include="Resources\ok-icon.png" />
+    <None Include="Resources\page-swap-icon.png" />
+    <None Include="Resources\edit-validated-icon.png" />
+    <None Include="Resources\Close-2-icon.png" />
+    <None Include="Resources\minimize-icon.png" />
+    <None Include="Resources\Computer-Monitor-icon.png" />
+    <None Include="Resources\delete-icon.png" />
+    <None Include="Resources\Actions-window-close-icon.png" />
+    <None Include="Resources\Misc-Delete-Database-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SpeechLib">
+      <Guid>{C866CA3A-32F7-11D2-9602-00C04F8EE628}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network-Download-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network-Download-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Pictures\Dosya Transfer.png" />
+    <None Include="bin\Debug\Pictures\Bay ve Bayan.png" />
+    <None Include="bin\Debug\Pictures\Bus.png" />
+    <None Include="bin\Debug\Pictures\Transfer.png" />
+    <None Include="bin\Debug\Pictures\Close 2.png" />
+    <None Include="bin\Debug\Pictures\İptal.png" />
+    <None Include="bin\Debug\Pictures\İptal2.png" />
+    <None Include="bin\Debug\Pictures\Bus32x32.png" />
+    <None Include="bin\Debug\Pictures\Silme.png" />
+    <None Include="bin\Debug\Pictures\Online.png" />
+    <None Include="bin\Debug\Pictures\Settings.png" />
+    <None Include="bin\Debug\Pictures\Yenile.png" />
+    <None Include="bin\Debug\Pictures\yellow Close.png" />
+    <None Include="bin\Debug\Pictures\Message-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="de\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="es\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="fr\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="Iconblock-Remixed-Bus.ico">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="it\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="ja\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="ko\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="pt\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="ru\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="ULUSOY.exe.config">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="ULUSOY.exe.manifest">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>ManifestEntryPoint</FileType>
+    </PublishFile>
+    <PublishFile Include="zh-CHS\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="zh-CHT\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="JM Otobüs Yazılımı.ico" />
+    <None Include="Resources\Settings-icon1.png" />
+    <None Include="Resources\Phone-icon %281%29.png" />
+    <None Include="Resources\school-bus-icon1.png" />
+    <None Include="Resources\data-transport-icon %281%29.png" />
+    <None Include="Resources\data-transport-icon.png" />
+    <None Include="Resources\Phone-icon.png" />
+    <None Include="Resources\MetroUI-Other-Mail-icon.png" />
+    <None Include="Resources\sms-icon.png" />
+    <None Include="Resources\SMS-Message-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

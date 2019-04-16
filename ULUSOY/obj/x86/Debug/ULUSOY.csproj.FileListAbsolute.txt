@@ -1,0 +1,47 @@
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\bin\x86\Debug\ULUSOY.exe.config
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\bin\x86\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\bin\x86\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\bin\x86\Debug\AxInterop.cidv5callerid.dll
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.aracekleme.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.frmana.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.gelenaramalar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.genel_ayarlar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.hakkimizda.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.iletisim.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.lisansfrm.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.servis.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.worda_aktar.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.yazilimgüvenlik.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.yolcukoltugubelirle.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.yolcularitasi.resources
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.csproj.GenerateResource.Cache
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.exe
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.pdb
+C:\Users\JMT\Desktop\ULUSOY\ULUSOY\PROJE\ULUSOY\obj\x86\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\x86\Debug\ULUSOY.exe.config
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\x86\Debug\ULUSOY.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\x86\Debug\ULUSOY.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\x86\Debug\AxInterop.cidv5callerid.dll
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.Properties.Resources.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\x86\Debug\ULUSOY.csproj.GenerateResource.Cache

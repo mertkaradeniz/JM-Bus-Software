@@ -1,0 +1,387 @@
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (150920142355)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.2.2.0 (251020141141)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.2.2.1 (101120141316)\JM Otobüs Yazılımı v3.2.2.0 (290920142350)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMT\Desktop\JM Otobüs Yazılımı v3.3.2.3(210220151859)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmTopluEpostaGonderme.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmTopluSmsGonderme.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMusteriBilgilendirmePaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmLoading.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMusteriBilgilendirmePaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmTopluEpostaGonderme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmTopluSmsGonderme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.config
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.ResolveComReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.application
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\bin\Debug\JM Otobüs Yazılımı.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmAracEkleme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmGelenAramalar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmGenelAyarlar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmGuncellemeKontrolu.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmGuncellemeShowPaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmHarici.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmIletisim.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmLisans.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmLoading.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMesajGelmeKontrol.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMusteriBilgilendirmePaneli.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmMusteriBilgilendirmePaneliMail.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmOnlineAcenteler.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmSunucuAyarlari.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmTopluEpostaGonderme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.frmTopluSmsGonderme.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmServis.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmWordAktar.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmYazilimGüvenlik.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmYolcuKoltuguBelirle.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\ULUSOY.frmYolcuHaritasi.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JMOtobusYazilimi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.TrustInfo.xml
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.exe.manifest
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı\Code\ULUSOY\obj\Debug\JM Otobüs Yazılımı.application

@@ -1,0 +1,36 @@
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\Yazılım Güncelleme\bin\Release\Yazılım Güncelleme.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\Yazılım Güncelleme\bin\Release\Yazılım Güncelleme.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.Form1.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.Properties.Resources.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Otobüs Otomasyan\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Yazılım Güncelleme\bin\Release\Yazılım Güncelleme.exe
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Yazılım Güncelleme\bin\Release\Yazılım Güncelleme.pdb
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.frmAna.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.Properties.Resources.resources
+C:\Users\JMTech\Desktop\OTOBÜS PROGRAMI\CODE\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.csproj.GenerateResource.Cache
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\Yazılım Güncelleme\bin\Release\Yazılım Güncelleme.exe
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\Yazılım Güncelleme\bin\Release\Yazılım Güncelleme.pdb
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.frmAna.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.Properties.Resources.resources
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.csproj.GenerateResource.Cache
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.exe
+Y:\JM Otobüs Yazılımı v3.3.2.3(030920150024)\JM Otobüs Yazılımı v3.3.2.3(2003151644)\CODE\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.pdb
+C:\Users\JMT-PC\Desktop\JM Otobüs Yazılımı v4.0.0.0 (030420160257)\Code\Yazılım Güncelleme\bin\Release\Yazılım Güncelleme.exe
+C:\Users\JMT-PC\Desktop\JM Otobüs Yazılımı v4.0.0.0 (030420160257)\Code\Yazılım Güncelleme\bin\Release\Yazılım Güncelleme.pdb
+C:\Users\JMT-PC\Desktop\JM Otobüs Yazılımı v4.0.0.0 (030420160257)\Code\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.frmAna.resources
+C:\Users\JMT-PC\Desktop\JM Otobüs Yazılımı v4.0.0.0 (030420160257)\Code\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.Properties.Resources.resources
+C:\Users\JMT-PC\Desktop\JM Otobüs Yazılımı v4.0.0.0 (030420160257)\Code\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.csproj.GenerateResource.Cache
+C:\Users\JMT-PC\Desktop\JM Otobüs Yazılımı v4.0.0.0 (030420160257)\Code\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.exe
+C:\Users\JMT-PC\Desktop\JM Otobüs Yazılımı v4.0.0.0 (030420160257)\Code\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.frmAna.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\Yazılım Güncelleme\obj\Release\Yazılım_Güncelleme.Properties.Resources.resources
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\Yazılım Güncelleme\bin\Release\JM Otobüs Yazılımı Güncellemesi.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\Yazılım Güncelleme\bin\Release\JM Otobüs Yazılımı Güncellemesi.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\Yazılım Güncelleme\obj\Release\JM Otobüs Yazılımı Güncellemesi.exe
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\Yazılım Güncelleme\obj\Release\JM Otobüs Yazılımı Güncellemesi.pdb
+C:\Users\JMTech\Desktop\JM Otobüs Yazılımı v4.0.0.2 (150920161512)\Code\Yazılım Güncelleme\obj\Release\Yazılım Güncelleme.csprojResolveAssemblyReference.cache

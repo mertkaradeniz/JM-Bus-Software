@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMOtobusYazilimi", "ULUSOY\JMOtobusYazilimi.csproj", "{CE6766C3-CD95-40C9-98AF-C93963327ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase Aktarma", "DataBase Aktarma\DataBase Aktarma.csproj", "{FFF3B7E4-A278-47D9-A930-738958B32B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yazılım Güncelleme", "Yazılım Güncelleme\Yazılım Güncelleme.csproj", "{3324DD00-8CDD-49B6-9C31-BC3D86A7E951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE6766C3-CD95-40C9-98AF-C93963327ED0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CE6766C3-CD95-40C9-98AF-C93963327ED0}.Debug|x86.Build.0 = Debug|Any CPU
+		{CE6766C3-CD95-40C9-98AF-C93963327ED0}.Release|x86.ActiveCfg = Release|Any CPU
+		{CE6766C3-CD95-40C9-98AF-C93963327ED0}.Release|x86.Build.0 = Release|x86
+		{CE6766C3-CD95-40C9-98AF-C93963327ED0}.Release|x86.Build.2 = Release|Any CPU
+		{FFF3B7E4-A278-47D9-A930-738958B32B87}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FFF3B7E4-A278-47D9-A930-738958B32B87}.Debug|x86.Build.0 = Debug|Any CPU
+		{FFF3B7E4-A278-47D9-A930-738958B32B87}.Release|x86.ActiveCfg = Release|Any CPU
+		{FFF3B7E4-A278-47D9-A930-738958B32B87}.Release|x86.Build.0 = Release|Any CPU
+		{3324DD00-8CDD-49B6-9C31-BC3D86A7E951}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3324DD00-8CDD-49B6-9C31-BC3D86A7E951}.Debug|x86.Build.0 = Debug|Any CPU
+		{3324DD00-8CDD-49B6-9C31-BC3D86A7E951}.Release|x86.ActiveCfg = Release|Any CPU
+		{3324DD00-8CDD-49B6-9C31-BC3D86A7E951}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
